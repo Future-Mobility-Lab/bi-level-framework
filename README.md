@@ -11,9 +11,9 @@ There are two version of SF data set: a) SF.csv - excerpt from original data set
 5. Regression extrapolation (tables 3-5) and I/E joint optimization (tables 6-8) scenarios: 2_REGRESSION folder.
 6. Multi-class classification matrix (figure 9): multi.ipynb in 7_EXTENSION folder
 7. Regression using Quantiled Time Folding (figures 10-11): qunatiled time folding.ipynb in 7_EXTENSION folder
-8. Code to obtain SHAP values for regression experiments:
+8. Comparison of a fusion and single model performance (figure 13): 5_FULLMODEL folder
+9. Code to obtain SHAP values for regression experiments:
 	- All-to-All SHAP value estimation is in folder 2_REGRESSION (figure 14) and SHAP analysis specific to short-term/long-term incidents (figures 15-17) is in folder 7_EXTENSION
-9. Comparison of a fusion and single model performance: 5_FULLMODEL folder.
 
 
 
