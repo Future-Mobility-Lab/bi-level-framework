@@ -2,7 +2,7 @@
 
 This is the code for the paper:
 
-![Incident duration prediction using a bi-level machine learning framework with outlier removal and intra–extra joint optimisation. Transportation Research Part C: Emerging Technologies, 141, 103721, 2022.]([https://duckduckgo.com](https://www.researchgate.net/publication/360505047_Incident_duration_prediction_using_a_bi-level_machine_learning_framework_with_outlier_removal_and_intra-extra_joint_optimisation))
+[Incident duration prediction using a bi-level machine learning framework with outlier removal and intra–extra joint optimisation. Transportation Research Part C: Emerging Technologies, 141, 103721, 2022.](https://www.researchgate.net/publication/360505047_Incident_duration_prediction_using_a_bi-level_machine_learning_framework_with_outlier_removal_and_intra-extra_joint_optimisation)
 
 The code explores scenarios of traffic incident duration prediction task using data available for San-Francisco area from 2016 to 2021 (as an excerpt from Countrywise Traffic accident data set by Sobhan Moosavi, https://smoosavi.org/datasets/us_accidents). Victoria roads, Sydney and M7 Motorway, Sydney are not placed here since data sets are private.
 There are two version of SF data set: a) SF_raw.csv - excerpt from the CTADS data set with zero-variance fields removed (e.g. "State" variable is always equal to one value, therefore ommited), b) SF2.csv - excerpt from the CTADS data set with digitized fields.
